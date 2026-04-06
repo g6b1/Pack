@@ -6,6 +6,7 @@ export interface ChecklistItem {
   icon: string;
   color: string;
   checked: boolean;
+  pinned?: boolean;
 }
 
 export interface Theme {
@@ -13,6 +14,8 @@ export interface Theme {
   name: string;
   gradient: string;
   textColor: string;
+  mutedColor: string;
+  accentColor: string;
   iconBg: string;
 }
 

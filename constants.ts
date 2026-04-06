@@ -108,6 +108,54 @@ export const PRESET_PACKS = [
       { label: 'Silence', icon: '🤫', color: 'bg-[#F1F5F9]' },
       { label: 'Laptop', icon: '💻', color: 'bg-[#E2F7ED]' },
     ]
+  },
+  {
+    id: 'gym',
+    name: 'Gym',
+    icon: '🏋️',
+    color: 'bg-[#E2F0F7]',
+    items: [
+      { label: 'Shoes', icon: '👟', color: 'bg-[#F1F5F9]' },
+      { label: 'Water', icon: '💧', color: 'bg-[#E2F0F7]' },
+      { label: 'Towel', icon: '🧣', color: 'bg-[#E8E2F7]' },
+      { label: 'Protein', icon: '🥤', color: 'bg-[#F7E8E2]' },
+    ]
+  },
+  {
+    id: 'camping',
+    name: 'Camping',
+    icon: '⛺',
+    color: 'bg-[#F7F4E2]',
+    items: [
+      { label: 'Tent', icon: '⛺', color: 'bg-[#E2F7ED]' },
+      { label: 'Sleeping Bag', icon: '🛌', color: 'bg-[#E8E2F7]' },
+      { label: 'Flashlight', icon: '🔦', color: 'bg-[#F7F4E2]' },
+      { label: 'First Aid', icon: '🩹', color: 'bg-[#F7E2EB]' },
+    ]
+  },
+  {
+    id: 'photography',
+    name: 'Photo',
+    icon: '📸',
+    color: 'bg-[#F1F5F9]',
+    items: [
+      { label: 'Camera', icon: '📸', color: 'bg-[#E2F0F7]' },
+      { label: 'Lenses', icon: '🔍', color: 'bg-[#E2F7ED]' },
+      { label: 'SD Cards', icon: '💾', color: 'bg-[#F1F5F9]' },
+      { label: 'Tripod', icon: '🔭', color: 'bg-[#F7F4E2]' },
+    ]
+  },
+  {
+    id: 'firstaid',
+    name: 'First Aid',
+    icon: '🩹',
+    color: 'bg-[#F7E2EB]',
+    items: [
+      { label: 'Bandages', icon: '🩹', color: 'bg-[#F7E2EB]' },
+      { label: 'Antiseptic', icon: '🧪', color: 'bg-[#E2F7ED]' },
+      { label: 'Painkillers', icon: '💊', color: 'bg-[#E8E2F7]' },
+      { label: 'Gloves', icon: '🧤', color: 'bg-[#F1F5F9]' },
+    ]
   }
 ];
 
@@ -117,6 +165,8 @@ export const THEMES: Theme[] = [
     name: 'Cotton Candy',
     gradient: 'from-[#FDF2F8] to-[#EEF2FF]',
     textColor: 'text-slate-800',
+    mutedColor: 'text-slate-500',
+    accentColor: 'text-pink-600',
     iconBg: 'bg-[#FBCFE8]',
   },
   {
@@ -124,6 +174,8 @@ export const THEMES: Theme[] = [
     name: 'Soft Mint',
     gradient: 'from-[#ECFDF5] to-[#F0FDFA]',
     textColor: 'text-teal-900',
+    mutedColor: 'text-teal-700/60',
+    accentColor: 'text-teal-600',
     iconBg: 'bg-[#A7F3D0]',
   },
   {
@@ -131,6 +183,8 @@ export const THEMES: Theme[] = [
     name: 'Lavender Mist',
     gradient: 'from-[#F5F3FF] to-[#FAF5FF]',
     textColor: 'text-indigo-900',
+    mutedColor: 'text-indigo-700/60',
+    accentColor: 'text-indigo-600',
     iconBg: 'bg-[#DDD6FE]',
   },
   {
@@ -138,6 +192,8 @@ export const THEMES: Theme[] = [
     name: 'Peach Fuzz',
     gradient: 'from-[#FFF7ED] to-[#FFF1F2]',
     textColor: 'text-rose-900',
+    mutedColor: 'text-rose-700/60',
+    accentColor: 'text-rose-600',
     iconBg: 'bg-[#FED7AA]',
   },
   {
@@ -145,6 +201,8 @@ export const THEMES: Theme[] = [
     name: 'Frozen Lake',
     gradient: 'from-[#F0F9FF] to-[#E0F2FE]',
     textColor: 'text-sky-900',
+    mutedColor: 'text-sky-700/60',
+    accentColor: 'text-sky-600',
     iconBg: 'bg-[#BAE6FD]',
   },
   {
@@ -152,6 +210,8 @@ export const THEMES: Theme[] = [
     name: 'Silk Grey',
     gradient: 'from-[#F8FAFC] to-[#F1F5F9]',
     textColor: 'text-slate-900',
+    mutedColor: 'text-slate-500',
+    accentColor: 'text-slate-600',
     iconBg: 'bg-[#E2E8F0]',
   }
 ];
