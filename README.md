@@ -32,7 +32,7 @@ Just open the app, pick a pack, and go.
 
 ## Try it
 
-Live demo: [Vercel](https://pack-341b5weit-g6b1s-projects.vercel.app/)
+Live demo: [Vercel](https://pack-pearl.vercel.app/)
 
 ## Local Development
 
