@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="Preview" src="previews/thumbnail.png" />
+<img width="1200" height="475" alt="Thumbnail" src="previews/thumbnail.png" />
 </div>
 
 # Pack
@@ -23,11 +23,11 @@ Just open the app, pick a pack, and go.
 
 ## Screenshots
 
-![Work Pack](previews/work.png)
-![Hiking Pack](previews/hiking.png)
-![Gym Pack](previews/gym.png)
-![QR Sharing](previews/share.png)
-![Beach Pack](previews/beach.png)
+<img alt="Work" src="previews/work.png" width="200">
+<img alt="Hiking" src="previews/hiking.png" width="200">
+<img alt="Gym" src="previews/gym.png" width="200">
+<img alt="Share" src="previews/share.png" width="200">
+<img alt="Beach" src="previews/beach.png" width="200">
 
 ## Try it
 
