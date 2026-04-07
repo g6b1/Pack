@@ -26,6 +26,8 @@ Just open the app, pick a pack, and go.
 ![Work Pack](previews/work.png)
 ![Hiking Pack](previews/hiking.png)
 ![Gym Pack](previews/gym.png)
+![QR Sharing](previews/share.png)
+![Beach Pack](previews/beach.png)
 
 ## Try it
 
