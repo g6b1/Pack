@@ -22,12 +22,13 @@ Just open the app, pick a pack, and go.
 - Clean empty state when your pack is ready to go
 
 ## Screenshots
-
-<img alt="Work" src="previews/work.png" width="200">
-<img alt="Hiking" src="previews/hiking.png" width="200">
-<img alt="Gym" src="previews/gym.png" width="200">
-<img alt="Share" src="previews/share.png" width="200">
-<img alt="Beach" src="previews/beach.png" width="200">
+<p align="left">
+<img alt="Work" src="previews/work.png" height="250">
+<img alt="Hiking" src="previews/hiking.png" height="250">
+<img alt="Gym" src="previews/gym.png" height="250">
+<img alt="Share" src="previews/share.png" height="250">
+<img alt="Beach" src="previews/beach.png" height="250">
+</p>
 
 ## Try it
 
